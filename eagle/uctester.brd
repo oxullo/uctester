@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.003654" unitdist="mm" unit="mm" style="lines" multiple="2" display="yes" altdistance="0.1" altunitdist="mm" altunit="mm"/>
+<grid distance="0.5" unitdist="mm" unit="mm" style="lines" multiple="2" display="yes" altdistance="0.1" altunitdist="mm" altunit="mm"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="yes"/>
@@ -132,7 +132,7 @@
 <layer number="195" name="mNames" color="7" fill="1" visible="no" active="no"/>
 <layer number="196" name="mValues" color="7" fill="1" visible="no" active="no"/>
 <layer number="199" name="Contour" color="7" fill="1" visible="no" active="no"/>
-<layer number="200" name="200bmp" color="1" fill="10" visible="yes" active="yes"/>
+<layer number="200" name="200bmp" color="1" fill="10" visible="no" active="no"/>
 <layer number="201" name="201bmp" color="2" fill="10" visible="no" active="no"/>
 <layer number="202" name="202bmp" color="3" fill="10" visible="no" active="no"/>
 <layer number="203" name="203bmp" color="4" fill="10" visible="no" active="no"/>
@@ -3548,7 +3548,7 @@ Please make sure your boards conform to these design rules.
 <attribute name="CATEGORY" value="Resistor" x="20.68" y="75.88" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MANUFACTURER" value="" x="20.68" y="75.88" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MPN" value="" x="20.68" y="75.88" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="NAME" x="29.6433" y="24.5" size="1.016" layer="25" rot="R90" align="center-left"/>
+<attribute name="NAME" x="38" y="19.8567" size="1.016" layer="25" font="vector" rot="R180" align="center-left"/>
 <attribute name="OPERATING_TEMP" value="" x="20.68" y="75.88" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="PART_STATUS" value="" x="20.68" y="75.88" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="RATING" value="" x="20.68" y="75.88" size="1.778" layer="27" rot="R180" display="off"/>
@@ -3660,7 +3660,7 @@ Please make sure your boards conform to these design rules.
 <attribute name="CATEGORY" value="Resistor" x="-22.38" y="76.76" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MANUFACTURER" value="" x="-22.38" y="76.76" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MPN" value="" x="-22.38" y="76.76" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="NAME" x="33.5" y="26.6433" size="1.016" layer="25" rot="R180" align="bottom-center"/>
+<attribute name="NAME" x="33.5" y="31.1433" size="1.016" layer="25" rot="R180" align="bottom-center"/>
 <attribute name="OPERATING_TEMP" value="" x="-22.38" y="76.76" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="PART_STATUS" value="" x="-22.38" y="76.76" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="RATING" value="" x="-22.38" y="76.76" size="1.778" layer="27" rot="R180" display="off"/>
